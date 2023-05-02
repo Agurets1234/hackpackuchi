@@ -1,7 +1,7 @@
 {
     "injector": [
         {
-            "urls": [ "https://uchi.ru/*/cards/*", "https://uchi.ru/cards/*", "https://uchi.ru/profile/students/*" ],
+            "urls": [ "https://uchi.ru/*/cards/*", "https://uchi.ru/cards/*", "https://uchi.ru/profile/students/player?task_id=2821&work_id=97329287-0d3c-4020-a4ed-076aadc92e9f&subject_id=1" ],
             "scripts": [ "libs/logging.js", "code/card.js" ]
         },
         {
